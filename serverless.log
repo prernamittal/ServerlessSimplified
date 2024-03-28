@@ -1,0 +1,507 @@
+2024-03-28 23:48:46,379 - CPU Usage: 8.7%  Memory Usage: 86.1%
+2024-03-28 23:48:46,379 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 86ms
+2024-03-28 23:48:46,379 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 48ms
+2024-03-28 23:48:46,379 - Node <__main__.Node object at 0x000001FED3471F50> Response Time: 93ms
+2024-03-28 23:48:46,379 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 85ms
+2024-03-28 23:48:46,379 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 26ms
+2024-03-28 23:48:49,377 - CPU Usage: 4.9%  Memory Usage: 86.1%
+2024-03-28 23:48:49,379 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 65ms
+2024-03-28 23:48:49,379 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 98ms
+2024-03-28 23:48:49,379 - Node <__main__.Node object at 0x000001FED3471F50> Response Time: 96ms
+2024-03-28 23:48:49,379 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 96ms
+2024-03-28 23:48:49,379 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 26ms
+2024-03-28 23:48:50,062 - Request 0 routed to Node <__main__.Node object at 0x000001FED3471FD0>
+2024-03-28 23:48:50,062 - Queue Size: 1
+2024-03-28 23:48:50,063 - Request 0 processed
+2024-03-28 23:48:50,063 - Queue Size: 0
+2024-03-28 23:48:51,066 - Request 1 routed to Node <__main__.Node object at 0x000001FED3471F90>
+2024-03-28 23:48:51,066 - Queue Size: 1
+2024-03-28 23:48:51,068 - Request 1 processed
+2024-03-28 23:48:51,068 - Queue Size: 0
+2024-03-28 23:48:52,069 - Request 2 routed to Node <__main__.Node object at 0x000001FED3471F50>
+2024-03-28 23:48:52,069 - Queue Size: 1
+2024-03-28 23:48:52,069 - Request 2 processed
+2024-03-28 23:48:52,069 - Queue Size: 0
+2024-03-28 23:48:52,388 - CPU Usage: 10.0%  Memory Usage: 86.2%
+2024-03-28 23:48:52,388 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 18ms
+2024-03-28 23:48:52,388 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 90ms
+2024-03-28 23:48:52,395 - Node <__main__.Node object at 0x000001FED3471F50> Response Time: 25ms
+2024-03-28 23:48:52,395 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 31ms
+2024-03-28 23:48:52,395 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 63ms
+2024-03-28 23:48:53,086 - Request 3 routed to Node <__main__.Node object at 0x000001FED3471F10>
+2024-03-28 23:48:53,086 - Queue Size: 1
+2024-03-28 23:48:53,086 - Request 3 processed
+2024-03-28 23:48:53,086 - Queue Size: 0
+2024-03-28 23:48:54,069 - Node <__main__.Node object at 0x000001FED3471F50> has failed.
+2024-03-28 23:48:54,083 - Request 4 routed to Node <__main__.Node object at 0x000001FED3479950>
+2024-03-28 23:48:54,083 - Queue Size: 1
+2024-03-28 23:48:54,083 - Request 4 processed
+2024-03-28 23:48:54,085 - Queue Size: 0
+2024-03-28 23:48:55,404 - CPU Usage: 9.6%  Memory Usage: 86.2%
+2024-03-28 23:48:55,405 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 75ms
+2024-03-28 23:48:55,405 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 66ms
+2024-03-28 23:48:55,405 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 43ms
+2024-03-28 23:48:55,405 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 100ms
+2024-03-28 23:48:55,405 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 16ms
+2024-03-28 23:48:58,389 - CPU Usage: 6.8%  Memory Usage: 86.2%
+2024-03-28 23:48:58,389 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 53ms
+2024-03-28 23:48:58,389 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 73ms
+2024-03-28 23:48:58,389 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 70ms
+2024-03-28 23:48:58,389 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 96ms
+2024-03-28 23:48:58,389 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 67ms
+2024-03-28 23:49:01,391 - CPU Usage: 12.5%  Memory Usage: 86.3%
+2024-03-28 23:49:01,391 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 87ms
+2024-03-28 23:49:01,391 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 39ms
+2024-03-28 23:49:01,391 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 68ms
+2024-03-28 23:49:01,391 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 35ms
+2024-03-28 23:49:01,391 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 100ms
+2024-03-28 23:49:04,414 - CPU Usage: 5.7%  Memory Usage: 86.3%
+2024-03-28 23:49:04,415 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 47ms
+2024-03-28 23:49:04,415 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 62ms
+2024-03-28 23:49:04,415 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 36ms
+2024-03-28 23:49:04,415 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 100ms
+2024-03-28 23:49:04,415 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 68ms
+2024-03-28 23:49:07,417 - CPU Usage: 3.7%  Memory Usage: 86.2%
+2024-03-28 23:49:07,417 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 66ms
+2024-03-28 23:49:07,417 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 49ms
+2024-03-28 23:49:07,417 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 32ms
+2024-03-28 23:49:07,417 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 73ms
+2024-03-28 23:49:07,417 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 49ms
+2024-03-28 23:49:10,413 - CPU Usage: 5.5%  Memory Usage: 86.2%
+2024-03-28 23:49:10,413 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 79ms
+2024-03-28 23:49:10,414 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 22ms
+2024-03-28 23:49:10,414 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 33ms
+2024-03-28 23:49:10,414 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 24ms
+2024-03-28 23:49:10,414 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 57ms
+2024-03-28 23:49:13,415 - CPU Usage: 3.2%  Memory Usage: 86.1%
+2024-03-28 23:49:13,415 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 86ms
+2024-03-28 23:49:13,415 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 14ms
+2024-03-28 23:49:13,415 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 59ms
+2024-03-28 23:49:13,415 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 42ms
+2024-03-28 23:49:13,415 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 42ms
+2024-03-28 23:49:16,407 - CPU Usage: 6.1%  Memory Usage: 86.1%
+2024-03-28 23:49:16,407 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 17ms
+2024-03-28 23:49:16,407 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 57ms
+2024-03-28 23:49:16,407 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 61ms
+2024-03-28 23:49:16,407 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 57ms
+2024-03-28 23:49:16,407 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 30ms
+2024-03-28 23:49:19,417 - CPU Usage: 6.0%  Memory Usage: 86.1%
+2024-03-28 23:49:19,417 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 58ms
+2024-03-28 23:49:19,417 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 91ms
+2024-03-28 23:49:19,417 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 38ms
+2024-03-28 23:49:19,417 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 73ms
+2024-03-28 23:49:19,417 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 87ms
+2024-03-28 23:49:22,425 - CPU Usage: 7.0%  Memory Usage: 86.1%
+2024-03-28 23:49:22,425 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 64ms
+2024-03-28 23:49:22,425 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 73ms
+2024-03-28 23:49:22,425 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 76ms
+2024-03-28 23:49:22,425 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 54ms
+2024-03-28 23:49:22,425 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 47ms
+2024-03-28 23:49:25,437 - CPU Usage: 4.1%  Memory Usage: 86.1%
+2024-03-28 23:49:25,437 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 82ms
+2024-03-28 23:49:25,437 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 95ms
+2024-03-28 23:49:25,437 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 72ms
+2024-03-28 23:49:25,437 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 91ms
+2024-03-28 23:49:25,437 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 95ms
+2024-03-28 23:49:28,442 - CPU Usage: 9.7%  Memory Usage: 86.4%
+2024-03-28 23:49:28,442 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 11ms
+2024-03-28 23:49:28,442 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 26ms
+2024-03-28 23:49:28,442 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 96ms
+2024-03-28 23:49:28,442 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 74ms
+2024-03-28 23:49:28,442 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 89ms
+2024-03-28 23:49:31,446 - CPU Usage: 7.6%  Memory Usage: 87.4%
+2024-03-28 23:49:31,446 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 77ms
+2024-03-28 23:49:31,446 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 48ms
+2024-03-28 23:49:31,446 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 78ms
+2024-03-28 23:49:31,446 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 74ms
+2024-03-28 23:49:31,446 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 57ms
+2024-03-28 23:49:34,466 - CPU Usage: 3.3%  Memory Usage: 87.3%
+2024-03-28 23:49:34,466 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 15ms
+2024-03-28 23:49:34,466 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 53ms
+2024-03-28 23:49:34,466 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 72ms
+2024-03-28 23:49:34,466 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 91ms
+2024-03-28 23:49:34,466 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 31ms
+2024-03-28 23:49:37,481 - CPU Usage: 4.9%  Memory Usage: 87.4%
+2024-03-28 23:49:37,482 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 71ms
+2024-03-28 23:49:37,482 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 89ms
+2024-03-28 23:49:37,482 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 22ms
+2024-03-28 23:49:37,483 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 76ms
+2024-03-28 23:49:37,483 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 18ms
+2024-03-28 23:49:40,477 - CPU Usage: 4.2%  Memory Usage: 87.3%
+2024-03-28 23:49:40,477 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 22ms
+2024-03-28 23:49:40,477 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 66ms
+2024-03-28 23:49:40,477 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 92ms
+2024-03-28 23:49:40,477 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 25ms
+2024-03-28 23:49:40,477 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 68ms
+2024-03-28 23:49:43,488 - CPU Usage: 10.9%  Memory Usage: 87.6%
+2024-03-28 23:49:43,488 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 85ms
+2024-03-28 23:49:43,488 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 16ms
+2024-03-28 23:49:43,488 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 71ms
+2024-03-28 23:49:43,488 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 17ms
+2024-03-28 23:49:43,488 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 22ms
+2024-03-28 23:49:46,496 - CPU Usage: 5.0%  Memory Usage: 87.5%
+2024-03-28 23:49:46,496 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 19ms
+2024-03-28 23:49:46,496 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 55ms
+2024-03-28 23:49:46,496 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 77ms
+2024-03-28 23:49:46,496 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 85ms
+2024-03-28 23:49:46,496 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 99ms
+2024-03-28 23:49:49,517 - CPU Usage: 8.4%  Memory Usage: 87.5%
+2024-03-28 23:49:49,517 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 23ms
+2024-03-28 23:49:49,517 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 52ms
+2024-03-28 23:49:49,517 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 39ms
+2024-03-28 23:49:49,517 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 90ms
+2024-03-28 23:49:49,517 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 50ms
+2024-03-28 23:49:52,525 - CPU Usage: 5.9%  Memory Usage: 87.4%
+2024-03-28 23:49:52,525 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 97ms
+2024-03-28 23:49:52,525 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 88ms
+2024-03-28 23:49:52,525 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 34ms
+2024-03-28 23:49:52,525 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 36ms
+2024-03-28 23:49:52,525 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 97ms
+2024-03-28 23:49:55,545 - CPU Usage: 3.7%  Memory Usage: 87.3%
+2024-03-28 23:49:55,545 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 94ms
+2024-03-28 23:49:55,545 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 22ms
+2024-03-28 23:49:55,545 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 94ms
+2024-03-28 23:49:55,545 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 91ms
+2024-03-28 23:49:55,545 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 21ms
+2024-03-28 23:49:58,555 - CPU Usage: 5.8%  Memory Usage: 87.2%
+2024-03-28 23:49:58,555 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 80ms
+2024-03-28 23:49:58,555 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 14ms
+2024-03-28 23:49:58,555 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 87ms
+2024-03-28 23:49:58,555 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 92ms
+2024-03-28 23:49:58,555 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 76ms
+2024-03-28 23:50:01,555 - CPU Usage: 6.5%  Memory Usage: 87.3%
+2024-03-28 23:50:01,555 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 57ms
+2024-03-28 23:50:01,555 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 63ms
+2024-03-28 23:50:01,555 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 45ms
+2024-03-28 23:50:01,555 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 37ms
+2024-03-28 23:50:01,555 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 50ms
+2024-03-28 23:50:04,567 - CPU Usage: 5.6%  Memory Usage: 87.3%
+2024-03-28 23:50:04,567 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 88ms
+2024-03-28 23:50:04,567 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 89ms
+2024-03-28 23:50:04,567 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 44ms
+2024-03-28 23:50:04,567 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 52ms
+2024-03-28 23:50:04,567 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 50ms
+2024-03-28 23:50:07,585 - CPU Usage: 6.3%  Memory Usage: 87.4%
+2024-03-28 23:50:07,585 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 13ms
+2024-03-28 23:50:07,585 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 32ms
+2024-03-28 23:50:07,585 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 38ms
+2024-03-28 23:50:07,585 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 67ms
+2024-03-28 23:50:07,585 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 32ms
+2024-03-28 23:50:10,595 - CPU Usage: 8.6%  Memory Usage: 87.4%
+2024-03-28 23:50:10,599 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 60ms
+2024-03-28 23:50:10,599 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 58ms
+2024-03-28 23:50:10,599 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 74ms
+2024-03-28 23:50:10,599 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 67ms
+2024-03-28 23:50:10,599 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 62ms
+2024-03-28 23:50:13,597 - CPU Usage: 8.8%  Memory Usage: 87.4%
+2024-03-28 23:50:13,597 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 69ms
+2024-03-28 23:50:13,597 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 43ms
+2024-03-28 23:50:13,597 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 33ms
+2024-03-28 23:50:13,597 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 62ms
+2024-03-28 23:50:13,597 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 73ms
+2024-03-28 23:50:16,596 - CPU Usage: 8.1%  Memory Usage: 87.4%
+2024-03-28 23:50:16,596 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 96ms
+2024-03-28 23:50:16,596 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 42ms
+2024-03-28 23:50:16,596 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 25ms
+2024-03-28 23:50:16,599 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 31ms
+2024-03-28 23:50:16,599 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 65ms
+2024-03-28 23:50:19,605 - CPU Usage: 13.3%  Memory Usage: 87.7%
+2024-03-28 23:50:19,607 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 99ms
+2024-03-28 23:50:19,607 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 13ms
+2024-03-28 23:50:19,607 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 53ms
+2024-03-28 23:50:19,607 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 67ms
+2024-03-28 23:50:19,607 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 67ms
+2024-03-28 23:50:22,604 - CPU Usage: 10.2%  Memory Usage: 87.7%
+2024-03-28 23:50:22,605 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 97ms
+2024-03-28 23:50:22,605 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 10ms
+2024-03-28 23:50:22,605 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 25ms
+2024-03-28 23:50:22,607 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 33ms
+2024-03-28 23:50:22,607 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 56ms
+2024-03-28 23:50:25,605 - CPU Usage: 10.2%  Memory Usage: 87.9%
+2024-03-28 23:50:25,606 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 11ms
+2024-03-28 23:50:25,606 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 99ms
+2024-03-28 23:50:25,606 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 52ms
+2024-03-28 23:50:25,606 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 13ms
+2024-03-28 23:50:25,607 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 80ms
+2024-03-28 23:50:28,596 - CPU Usage: 7.8%  Memory Usage: 88.0%
+2024-03-28 23:50:28,596 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 78ms
+2024-03-28 23:50:28,596 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 72ms
+2024-03-28 23:50:28,596 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 35ms
+2024-03-28 23:50:28,596 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 47ms
+2024-03-28 23:50:28,596 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 22ms
+2024-03-28 23:50:31,605 - CPU Usage: 7.2%  Memory Usage: 87.9%
+2024-03-28 23:50:31,605 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 50ms
+2024-03-28 23:50:31,605 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 61ms
+2024-03-28 23:50:31,605 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 32ms
+2024-03-28 23:50:31,605 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 20ms
+2024-03-28 23:50:31,605 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 47ms
+2024-03-28 23:50:34,624 - CPU Usage: 12.0%  Memory Usage: 86.6%
+2024-03-28 23:50:34,625 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 70ms
+2024-03-28 23:50:34,625 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 10ms
+2024-03-28 23:50:34,625 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 11ms
+2024-03-28 23:50:34,625 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 45ms
+2024-03-28 23:50:34,625 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 57ms
+2024-03-28 23:50:37,639 - CPU Usage: 8.5%  Memory Usage: 86.6%
+2024-03-28 23:50:37,639 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 10ms
+2024-03-28 23:50:37,639 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 98ms
+2024-03-28 23:50:37,639 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 14ms
+2024-03-28 23:50:37,639 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 44ms
+2024-03-28 23:50:37,639 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 57ms
+2024-03-28 23:50:40,646 - CPU Usage: 5.0%  Memory Usage: 86.6%
+2024-03-28 23:50:40,647 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 76ms
+2024-03-28 23:50:40,647 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 17ms
+2024-03-28 23:50:40,647 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 43ms
+2024-03-28 23:50:40,647 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 50ms
+2024-03-28 23:50:40,647 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 91ms
+2024-03-28 23:50:43,658 - CPU Usage: 4.9%  Memory Usage: 86.6%
+2024-03-28 23:50:43,658 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 56ms
+2024-03-28 23:50:43,658 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 83ms
+2024-03-28 23:50:43,658 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 73ms
+2024-03-28 23:50:43,658 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 49ms
+2024-03-28 23:50:43,658 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 10ms
+2024-03-28 23:50:46,665 - CPU Usage: 7.0%  Memory Usage: 86.6%
+2024-03-28 23:50:46,666 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 91ms
+2024-03-28 23:50:46,666 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 53ms
+2024-03-28 23:50:46,666 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 30ms
+2024-03-28 23:50:46,666 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 29ms
+2024-03-28 23:50:46,666 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 47ms
+2024-03-28 23:50:49,656 - CPU Usage: 4.9%  Memory Usage: 86.6%
+2024-03-28 23:50:49,656 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 50ms
+2024-03-28 23:50:49,656 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 61ms
+2024-03-28 23:50:49,656 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 18ms
+2024-03-28 23:50:49,656 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 28ms
+2024-03-28 23:50:49,656 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 19ms
+2024-03-28 23:50:52,656 - CPU Usage: 8.3%  Memory Usage: 85.9%
+2024-03-28 23:50:52,656 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 61ms
+2024-03-28 23:50:52,656 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 80ms
+2024-03-28 23:50:52,656 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 60ms
+2024-03-28 23:50:52,656 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 73ms
+2024-03-28 23:50:52,656 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 80ms
+2024-03-28 23:50:55,697 - CPU Usage: 10.4%  Memory Usage: 85.7%
+2024-03-28 23:50:55,697 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 14ms
+2024-03-28 23:50:55,697 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 13ms
+2024-03-28 23:50:55,697 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 32ms
+2024-03-28 23:50:55,697 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 39ms
+2024-03-28 23:50:55,698 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 37ms
+2024-03-28 23:50:58,687 - CPU Usage: 10.7%  Memory Usage: 86.3%
+2024-03-28 23:50:58,687 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 35ms
+2024-03-28 23:50:58,687 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 31ms
+2024-03-28 23:50:58,687 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 54ms
+2024-03-28 23:50:58,687 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 52ms
+2024-03-28 23:50:58,687 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 46ms
+2024-03-28 23:51:01,695 - CPU Usage: 11.9%  Memory Usage: 86.5%
+2024-03-28 23:51:01,695 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 35ms
+2024-03-28 23:51:01,695 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 73ms
+2024-03-28 23:51:01,695 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 18ms
+2024-03-28 23:51:01,695 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 96ms
+2024-03-28 23:51:01,695 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 86ms
+2024-03-28 23:51:04,706 - CPU Usage: 3.2%  Memory Usage: 86.6%
+2024-03-28 23:51:04,706 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 92ms
+2024-03-28 23:51:04,706 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 90ms
+2024-03-28 23:51:04,707 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 64ms
+2024-03-28 23:51:04,707 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 44ms
+2024-03-28 23:51:04,707 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 37ms
+2024-03-28 23:51:07,725 - CPU Usage: 7.5%  Memory Usage: 86.5%
+2024-03-28 23:51:07,725 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 63ms
+2024-03-28 23:51:07,725 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 48ms
+2024-03-28 23:51:07,725 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 29ms
+2024-03-28 23:51:07,725 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 93ms
+2024-03-28 23:51:07,726 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 83ms
+2024-03-28 23:51:10,716 - CPU Usage: 6.0%  Memory Usage: 86.4%
+2024-03-28 23:51:10,716 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 26ms
+2024-03-28 23:51:10,716 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 65ms
+2024-03-28 23:51:10,716 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 14ms
+2024-03-28 23:51:10,716 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 16ms
+2024-03-28 23:51:10,716 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 92ms
+2024-03-28 23:51:13,737 - CPU Usage: 4.7%  Memory Usage: 86.6%
+2024-03-28 23:51:13,737 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 10ms
+2024-03-28 23:51:13,737 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 83ms
+2024-03-28 23:51:13,737 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 74ms
+2024-03-28 23:51:13,737 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 95ms
+2024-03-28 23:51:13,737 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 62ms
+2024-03-28 23:51:16,745 - CPU Usage: 5.6%  Memory Usage: 86.5%
+2024-03-28 23:51:16,745 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 37ms
+2024-03-28 23:51:16,745 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 76ms
+2024-03-28 23:51:16,745 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 89ms
+2024-03-28 23:51:16,745 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 67ms
+2024-03-28 23:51:16,745 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 41ms
+2024-03-28 23:51:19,747 - CPU Usage: 3.9%  Memory Usage: 86.4%
+2024-03-28 23:51:19,747 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 88ms
+2024-03-28 23:51:19,747 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 74ms
+2024-03-28 23:51:19,747 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 51ms
+2024-03-28 23:51:19,747 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 93ms
+2024-03-28 23:51:19,747 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 21ms
+2024-03-28 23:51:22,745 - CPU Usage: 16.1%  Memory Usage: 86.7%
+2024-03-28 23:51:22,745 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 19ms
+2024-03-28 23:51:22,745 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 46ms
+2024-03-28 23:51:22,745 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 48ms
+2024-03-28 23:51:22,745 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 58ms
+2024-03-28 23:51:22,745 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 10ms
+2024-03-28 23:51:25,740 - CPU Usage: 6.7%  Memory Usage: 86.6%
+2024-03-28 23:51:25,740 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 97ms
+2024-03-28 23:51:25,740 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 40ms
+2024-03-28 23:51:25,740 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 12ms
+2024-03-28 23:51:25,740 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 85ms
+2024-03-28 23:51:25,745 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 87ms
+2024-03-28 23:51:28,737 - CPU Usage: 7.3%  Memory Usage: 86.4%
+2024-03-28 23:51:28,737 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 27ms
+2024-03-28 23:51:28,737 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 88ms
+2024-03-28 23:51:28,737 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 50ms
+2024-03-28 23:51:28,737 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 100ms
+2024-03-28 23:51:28,737 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 44ms
+2024-03-28 23:51:31,756 - CPU Usage: 8.4%  Memory Usage: 86.3%
+2024-03-28 23:51:31,756 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 93ms
+2024-03-28 23:51:31,756 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 42ms
+2024-03-28 23:51:31,756 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 93ms
+2024-03-28 23:51:31,756 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 66ms
+2024-03-28 23:51:31,756 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 36ms
+2024-03-28 23:51:34,745 - CPU Usage: 5.5%  Memory Usage: 86.3%
+2024-03-28 23:51:34,745 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 11ms
+2024-03-28 23:51:34,745 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 72ms
+2024-03-28 23:51:34,745 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 46ms
+2024-03-28 23:51:34,745 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 78ms
+2024-03-28 23:51:34,745 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 58ms
+2024-03-28 23:51:37,742 - CPU Usage: 6.9%  Memory Usage: 86.2%
+2024-03-28 23:51:37,742 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 62ms
+2024-03-28 23:51:37,742 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 38ms
+2024-03-28 23:51:37,742 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 100ms
+2024-03-28 23:51:37,742 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 100ms
+2024-03-28 23:51:37,742 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 77ms
+2024-03-28 23:51:40,735 - CPU Usage: 4.7%  Memory Usage: 86.4%
+2024-03-28 23:51:40,735 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 92ms
+2024-03-28 23:51:40,735 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 59ms
+2024-03-28 23:51:40,735 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 85ms
+2024-03-28 23:51:40,735 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 15ms
+2024-03-28 23:51:40,735 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 73ms
+2024-03-28 23:51:43,756 - CPU Usage: 10.1%  Memory Usage: 86.4%
+2024-03-28 23:51:43,756 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 40ms
+2024-03-28 23:51:43,756 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 49ms
+2024-03-28 23:51:43,756 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 28ms
+2024-03-28 23:51:43,756 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 79ms
+2024-03-28 23:51:43,756 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 54ms
+2024-03-28 23:51:46,769 - CPU Usage: 5.1%  Memory Usage: 86.3%
+2024-03-28 23:51:46,769 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 22ms
+2024-03-28 23:51:46,769 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 90ms
+2024-03-28 23:51:46,769 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 25ms
+2024-03-28 23:51:46,769 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 88ms
+2024-03-28 23:51:46,769 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 97ms
+2024-03-28 23:51:49,770 - CPU Usage: 28.0%  Memory Usage: 86.9%
+2024-03-28 23:51:49,770 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 82ms
+2024-03-28 23:51:49,770 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 40ms
+2024-03-28 23:51:49,770 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 15ms
+2024-03-28 23:51:49,770 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 66ms
+2024-03-28 23:51:49,770 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 28ms
+2024-03-28 23:51:52,780 - CPU Usage: 14.2%  Memory Usage: 86.9%
+2024-03-28 23:51:52,780 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 14ms
+2024-03-28 23:51:52,780 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 87ms
+2024-03-28 23:51:52,780 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 79ms
+2024-03-28 23:51:52,783 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 24ms
+2024-03-28 23:51:52,783 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 65ms
+2024-03-28 23:51:55,805 - CPU Usage: 7.1%  Memory Usage: 86.9%
+2024-03-28 23:51:55,805 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 51ms
+2024-03-28 23:51:55,807 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 71ms
+2024-03-28 23:51:55,807 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 60ms
+2024-03-28 23:51:55,807 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 77ms
+2024-03-28 23:51:55,807 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 77ms
+2024-03-28 23:51:58,815 - CPU Usage: 14.0%  Memory Usage: 87.0%
+2024-03-28 23:51:58,816 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 91ms
+2024-03-28 23:51:58,817 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 18ms
+2024-03-28 23:51:58,817 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 49ms
+2024-03-28 23:51:58,817 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 84ms
+2024-03-28 23:51:58,817 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 37ms
+2024-03-28 23:52:01,832 - CPU Usage: 11.5%  Memory Usage: 87.1%
+2024-03-28 23:52:01,832 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 27ms
+2024-03-28 23:52:01,832 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 71ms
+2024-03-28 23:52:01,832 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 68ms
+2024-03-28 23:52:01,833 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 17ms
+2024-03-28 23:52:01,833 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 18ms
+2024-03-28 23:52:04,845 - CPU Usage: 9.4%  Memory Usage: 87.2%
+2024-03-28 23:52:04,847 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 22ms
+2024-03-28 23:52:04,847 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 48ms
+2024-03-28 23:52:04,847 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 51ms
+2024-03-28 23:52:04,847 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 86ms
+2024-03-28 23:52:04,847 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 67ms
+2024-03-28 23:52:07,865 - CPU Usage: 9.6%  Memory Usage: 88.4%
+2024-03-28 23:52:07,865 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 76ms
+2024-03-28 23:52:07,865 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 22ms
+2024-03-28 23:52:07,867 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 92ms
+2024-03-28 23:52:07,867 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 96ms
+2024-03-28 23:52:07,867 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 43ms
+2024-03-28 23:52:10,876 - CPU Usage: 11.6%  Memory Usage: 88.2%
+2024-03-28 23:52:10,876 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 92ms
+2024-03-28 23:52:10,876 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 21ms
+2024-03-28 23:52:10,876 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 41ms
+2024-03-28 23:52:10,876 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 75ms
+2024-03-28 23:52:10,876 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 73ms
+2024-03-28 23:52:13,900 - CPU Usage: 19.8%  Memory Usage: 87.6%
+2024-03-28 23:52:13,900 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 95ms
+2024-03-28 23:52:13,900 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 52ms
+2024-03-28 23:52:13,900 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 75ms
+2024-03-28 23:52:13,900 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 92ms
+2024-03-28 23:52:13,900 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 53ms
+2024-03-28 23:52:16,905 - CPU Usage: 11.1%  Memory Usage: 87.2%
+2024-03-28 23:52:16,905 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 12ms
+2024-03-28 23:52:16,905 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 44ms
+2024-03-28 23:52:16,905 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 25ms
+2024-03-28 23:52:16,905 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 46ms
+2024-03-28 23:52:16,905 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 40ms
+2024-03-28 23:52:19,917 - CPU Usage: 7.5%  Memory Usage: 87.0%
+2024-03-28 23:52:19,917 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 37ms
+2024-03-28 23:52:19,924 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 39ms
+2024-03-28 23:52:19,924 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 94ms
+2024-03-28 23:52:19,924 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 73ms
+2024-03-28 23:52:19,924 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 27ms
+2024-03-28 23:52:22,937 - CPU Usage: 7.4%  Memory Usage: 86.9%
+2024-03-28 23:52:22,937 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 39ms
+2024-03-28 23:52:22,937 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 45ms
+2024-03-28 23:52:22,937 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 61ms
+2024-03-28 23:52:22,937 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 25ms
+2024-03-28 23:52:22,937 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 84ms
+2024-03-28 23:52:25,935 - CPU Usage: 8.2%  Memory Usage: 86.9%
+2024-03-28 23:52:25,935 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 50ms
+2024-03-28 23:52:25,935 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 95ms
+2024-03-28 23:52:25,935 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 99ms
+2024-03-28 23:52:25,935 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 49ms
+2024-03-28 23:52:25,936 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 14ms
+2024-03-28 23:52:28,925 - CPU Usage: 7.6%  Memory Usage: 87.1%
+2024-03-28 23:52:28,927 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 96ms
+2024-03-28 23:52:28,927 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 48ms
+2024-03-28 23:52:28,927 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 51ms
+2024-03-28 23:52:28,927 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 98ms
+2024-03-28 23:52:28,927 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 14ms
+2024-03-28 23:52:31,925 - CPU Usage: 7.1%  Memory Usage: 86.9%
+2024-03-28 23:52:31,925 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 18ms
+2024-03-28 23:52:31,925 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 65ms
+2024-03-28 23:52:31,925 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 89ms
+2024-03-28 23:52:31,925 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 79ms
+2024-03-28 23:52:31,925 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 53ms
+2024-03-28 23:52:34,935 - CPU Usage: 7.8%  Memory Usage: 86.9%
+2024-03-28 23:52:34,936 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 26ms
+2024-03-28 23:52:34,936 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 37ms
+2024-03-28 23:52:34,936 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 33ms
+2024-03-28 23:52:34,936 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 83ms
+2024-03-28 23:52:34,936 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 48ms
+2024-03-28 23:52:37,954 - CPU Usage: 5.9%  Memory Usage: 87.0%
+2024-03-28 23:52:37,954 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 20ms
+2024-03-28 23:52:37,954 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 17ms
+2024-03-28 23:52:37,954 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 50ms
+2024-03-28 23:52:37,954 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 95ms
+2024-03-28 23:52:37,954 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 79ms
+2024-03-28 23:52:40,956 - CPU Usage: 7.8%  Memory Usage: 87.0%
+2024-03-28 23:52:40,956 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 83ms
+2024-03-28 23:52:40,960 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 23ms
+2024-03-28 23:52:40,960 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 82ms
+2024-03-28 23:52:40,960 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 14ms
+2024-03-28 23:52:40,960 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 13ms
+2024-03-28 23:52:43,967 - CPU Usage: 8.0%  Memory Usage: 86.9%
+2024-03-28 23:52:43,967 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 86ms
+2024-03-28 23:52:43,967 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 89ms
+2024-03-28 23:52:43,967 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 40ms
+2024-03-28 23:52:43,967 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 46ms
+2024-03-28 23:52:43,967 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 69ms
+2024-03-28 23:52:46,965 - CPU Usage: 6.8%  Memory Usage: 86.8%
+2024-03-28 23:52:46,965 - Node <__main__.Node object at 0x000001FED3471FD0> Response Time: 25ms
+2024-03-28 23:52:46,965 - Node <__main__.Node object at 0x000001FED3471F90> Response Time: 100ms
+2024-03-28 23:52:46,965 - Node <__main__.Node object at 0x000001FED3471F10> Response Time: 69ms
+2024-03-28 23:52:46,965 - Node <__main__.Node object at 0x000001FED3471ED0> Response Time: 99ms
+2024-03-28 23:52:46,965 - Node <__main__.Node object at 0x000001FED3479950> Response Time: 98ms
